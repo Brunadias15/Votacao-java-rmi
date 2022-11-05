@@ -1,5 +1,5 @@
 # Votacao-java-rmi
-##Aplicação servidor/cliente de votação.<br><br>
+Aplicação servidor/cliente de votação.<br><br>
 
 Como executar:<br>
 1 - Levantar servidorApuracao;<br>
